@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>嘿嘿嘿</title>
+  <title>One does not return</title>
   
-  
+  <subtitle>As long as you know where to go, the world will make way for you.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cccbowen.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://cccbowen.github.io/</id>
   
   <author>
-    <name>CBW</name>
+    <name>C丶dix</name>
     
   </author>
   
